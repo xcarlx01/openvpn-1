@@ -1,69 +1,14 @@
 {
   "Servers" : [ {
-    "Category" : 2,
-    "DomainOrIP" : "139.59.3.153",
-    "Flag" : "in",
-    "Name" : "India 1"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "159.89.167.186",
-    "Flag" : "in",
-    "Name" : "India 2"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "159.89.175.229",
-    "Flag" : "in",
-    "Name" : "India 3"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "206.189.85.99",
-    "Flag" : "sg",
-    "Name" : "Singapore 1"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "206.189.47.112",
-    "Flag" : "sg",
-    "Name" : "Singapore 2"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "165.227.43.129",
-    "Flag" : "ca",
-    "Name" : "Canada"
-  }, {
     "Category" : 1,
     "DomainOrIP" : "139.59.13.119",
     "Flag" : "in",
-    "Name" : "India "
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "167.99.67.0",
-    "Flag" : "sg",
-    "Name" : "Singapore"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "206.189.122.42",
-    "Flag" : "gb",
-    "Name" : "England"
+    "Name" : "Test"
   }, {
     "Category" : 0,
     "DomainOrIP" : "139.59.90.1",
     "Flag" : "in",
-    "Name" : "India"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "104.248.17.58",
-    "Flag" : "de",
-    "Name" : "Germany"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "178.62.196.247",
-    "Flag" : "nl",
-    "Name" : "Netherland"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "128.199.222.76",
-    "Flag" : "sg",
-    "Name" : "Server02"
+    "Name" : "Test"
   }, {
     "Category" : 2,
     "DomainOrIP" : "www.viber.com.edgekey.net.private1.sentinelvpn.ml.",
@@ -74,70 +19,70 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : true,
-    "Host" : "ZYe7LMQJ+PNRFuYLF83x8ta6HExqOBVn4fN7/qP9uUUvYOJjKJEV63lw8AeYKIkcLvRw0KHk2pIG2LxIX2DpDw==",
+    "Host" : "Xi7MheRyLJlTk5SS4ntdmgfV6d8SE6mS6KDIYijpxAlobLRfIQMLMcC0pc24QJ0TfGNzEO9zZ2TdrK6STtIwNA==",
     "Name" : "GTM GAMES 99",
     "OnlineHost" : true,
     "Port" : 8080,
     "Proxy" : "",
     "ReverseProxy" : false,
-    "ShowText" : false,
-    "Text" : "1gb Perday\n\n(ex: GAMES99 to 8080):\n\nGAMES50 - 300MB for 7 days for only P50\n\r\nGAMES99 - 300MB for 30 days for only P99\n\r\nAND FREE 300MB PERDAY FOR GAMES. like Mobile legends.\n\nThis Promo : Bypassing only the @ig & @gb 1gb. ",
+    "ShowText" : true,
+    "Text" : "1gb Perday\n\n(ex: GAMES99 to 8080):\n\nGAMES50 - 300MB for 7 days for only P50\n\r\nGAMES99 - 300MB for 30 days for only P99\n\r\n",
     "UseDefaultProxy" : true
   }, {
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "ThBMsfNluviP922ZekEjVMre5Srx2Jrz20+1p1/kz3O0GGj6Ah/Ewe/q2eaWMbYVaJkR9SVw4Vu1b27OT6Cb4DokQd9ukwsLT0WUwNAPuEc=",
+    "Host" : "oIvbTOMArCaO2u1F/JvspKQw7joKi+N35xfQi5NwNnMO0yXieMBug0Pzb52mNRSh839wR66Yz43WQWnhJYITFD6gdw6OuhIOiTsGALz7LOU=",
     "Name" : "SUN TU/CTC 1",
     "OnlineHost" : true,
     "Port" : 8080,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
-    "Text" : "SENTINEL VPN",
+    "Text" : "SUN Promo 1",
     "UseDefaultProxy" : true
   }, {
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "oMrrajeMMoDugNCfcS1hUwXgny+bHNh+FeTXGFf8B3RQkZ5nl8C3TvlEjpdn9jkoekjylljvkcg6Z4NfdAT8sg==",
+    "Host" : "NG2qabqqyInjuPg01GhQgrpIYKreJoLUvlt3I10LDrwcKolmhNcSnPJFbZUwOILkZx9LFHn8/a1uu0FWg3yTiw==",
     "Name" : "SUN TU/CTC 2",
     "OnlineHost" : false,
     "Port" : 8080,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
-    "Text" : "SENTINEL VPN",
+    "Text" : "SUN Promo 2",
     "UseDefaultProxy" : true
   }, {
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "PMf5GuycuO11PPJvnKwv0OXJbuofPsDxSGkFEr0lPoxKZiVtWctTKehmlErIooKL",
+    "Host" : "Ge9/DVeFnktXlkDG9W2qoulxg7XRyjfszUK6kFcQeOhbIqTuMDBZeHKavZHz7vVh",
     "Name" : "SUN FIXEDPLAN 300",
     "OnlineHost" : false,
     "Port" : 8000,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
-    "Text" : "Gotscombo / go watch & play",
+    "Text" : "SUN Promo 3",
     "UseDefaultProxy" : true
   }, {
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "I3dkjeq3LoQaAJ9Ababb/dpf+G96udOR5bGVlKPmWKhLBo4LYbna2zJiyu3fQeZwllr6QjsBnWiX35W1Fs7yIg==",
+    "Host" : "y238diKLCuHyUQda/cQt0SGmLSmkMSW8QRkGw9egfP1w0qcgsWGM2h7BM9wQ768czjeTfL1epGa2E3xKrtzOTg==",
     "Name" : "TALK N TEXT ML10",
     "OnlineHost" : false,
     "Port" : 8080,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
-    "Text" : "SENTINEL VPN",
+    "Text" : "Talk.& Text Promo",
     "UseDefaultProxy" : true
   } ],
   "GuiCategories" : true,
   "GuiFlags" : true,
   "Changelogs" : "SENTINEL VPN\nVirtual Private Network",
-  "Version" : 1.2
+  "Version" : 1.3
 }
