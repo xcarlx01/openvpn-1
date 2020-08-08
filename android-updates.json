@@ -1,31 +1,6 @@
 {
   "Servers" : [ {
     "Category" : 2,
-    "DomainOrIP" : "178.128.16.49",
-    "Flag" : "sg",
-    "Name" : "Singapore 1"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "157.245.62.20",
-    "Flag" : "sg",
-    "Name" : "Singapore 2"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "128.199.141.246",
-    "Flag" : "sg",
-    "Name" : "Singapore 3"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "128.199.136.122",
-    "Flag" : "sg",
-    "Name" : "Singapore 4"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "206.189.83.244",
-    "Flag" : "sg",
-    "Name" : "Singapore 5"
-  }, {
-    "Category" : 2,
     "DomainOrIP" : "139.59.3.153",
     "Flag" : "in",
     "Name" : "India 1"
@@ -49,11 +24,6 @@
     "DomainOrIP" : "206.189.47.112",
     "Flag" : "sg",
     "Name" : "Singapore 2"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "128.199.136.124",
-    "Flag" : "sg",
-    "Name" : "Singapore 3"
   }, {
     "Category" : 1,
     "DomainOrIP" : "165.227.43.129",
@@ -104,7 +74,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : true,
-    "Host" : "Hv5xQI61lui52RnBBywB6xzR6URjzUvt24JntrOHLjAQLLaLD8pLcP4qv8NH0DPWo2WNCDseNVu0z2r+rs9OOw==",
+    "Host" : "ZYe7LMQJ+PNRFuYLF83x8ta6HExqOBVn4fN7/qP9uUUvYOJjKJEV63lw8AeYKIkcLvRw0KHk2pIG2LxIX2DpDw==",
     "Name" : "GTM GAMES 99",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -117,7 +87,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "S9/DzldGDKVSjjWjwt09M2atiNbVeZhc+wXoKCoUOZS4m2SpYSflljvIoPmA0wkRQqKi+wUgsCB/DhhqW0X1w00VMXB/nItqUR5yD9mPU6E=",
+    "Host" : "ThBMsfNluviP922ZekEjVMre5Srx2Jrz20+1p1/kz3O0GGj6Ah/Ewe/q2eaWMbYVaJkR9SVw4Vu1b27OT6Cb4DokQd9ukwsLT0WUwNAPuEc=",
     "Name" : "SUN TU/CTC 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -130,7 +100,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "KCwSb8dyN/Obdub+TMZ3UE10DxK0+83ssGML/T+Bj62mkWtbFdAzRd6H5vbeUFUqqGfLB7Hwg/eZ9k5rMjZMOA==",
+    "Host" : "oMrrajeMMoDugNCfcS1hUwXgny+bHNh+FeTXGFf8B3RQkZ5nl8C3TvlEjpdn9jkoekjylljvkcg6Z4NfdAT8sg==",
     "Name" : "SUN TU/CTC 2",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -143,7 +113,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "3tTTr8nm9ZvjrWOo2X6dlr0/tLDE/+FBaZWsCN/+hF76tSBhHjTZDXtpfwsj003y",
+    "Host" : "PMf5GuycuO11PPJvnKwv0OXJbuofPsDxSGkFEr0lPoxKZiVtWctTKehmlErIooKL",
     "Name" : "SUN FIXEDPLAN 300",
     "OnlineHost" : false,
     "Port" : 8000,
@@ -156,7 +126,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "RnATHmaOZ9bY76aBsQBfAymfglHwaCBenkVqrtDwXG1JmYj9pe6bnXvIJrflqGW/YBj0KiWBp5fxvYBlgG9agg==",
+    "Host" : "I3dkjeq3LoQaAJ9Ababb/dpf+G96udOR5bGVlKPmWKhLBo4LYbna2zJiyu3fQeZwllr6QjsBnWiX35W1Fs7yIg==",
     "Name" : "TALK N TEXT ML10",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -169,5 +139,5 @@
   "GuiCategories" : true,
   "GuiFlags" : true,
   "Changelogs" : "SENTINEL VPN\nVirtual Private Network",
-  "Version" : 1.1
+  "Version" : 1.2
 }
