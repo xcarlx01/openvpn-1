@@ -1,93 +1,168 @@
 {
   "Servers" : [ {
+    "Category" : 2,
+    "DomainOrIP" : "178.128.16.49",
+    "Flag" : "sg",
+    "Name" : "Singapore 1"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "157.245.62.20",
+    "Flag" : "sg",
+    "Name" : "Singapore 2"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "128.199.141.246",
+    "Flag" : "sg",
+    "Name" : "Singapore 3"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "128.199.136.122",
+    "Flag" : "sg",
+    "Name" : "Singapore 4"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "206.189.83.244",
+    "Flag" : "sg",
+    "Name" : "Singapore 5"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "139.59.3.153",
+    "Flag" : "in",
+    "Name" : "India 1"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "159.89.167.186",
+    "Flag" : "in",
+    "Name" : "India 2"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "159.89.175.229",
+    "Flag" : "in",
+    "Name" : "India 3"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "206.189.85.99",
+    "Flag" : "sg",
+    "Name" : "Singapore 1"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "206.189.47.112",
+    "Flag" : "sg",
+    "Name" : "Singapore 2"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "128.199.136.124",
+    "Flag" : "sg",
+    "Name" : "Singapore 3"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "165.227.43.129",
+    "Flag" : "ca",
+    "Name" : "Canada"
+  }, {
     "Category" : 1,
     "DomainOrIP" : "139.59.13.119",
     "Flag" : "in",
-    "Name" : "Test"
+    "Name" : "India "
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "167.99.67.0",
+    "Flag" : "sg",
+    "Name" : "Singapore"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "206.189.122.42",
+    "Flag" : "gb",
+    "Name" : "England"
   }, {
     "Category" : 0,
     "DomainOrIP" : "139.59.90.1",
     "Flag" : "in",
-    "Name" : "Test"
+    "Name" : "India"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "104.248.17.58",
+    "Flag" : "de",
+    "Name" : "Germany"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "178.62.196.247",
+    "Flag" : "nl",
+    "Name" : "Netherland"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private1.sentinelvpn.ml.",
+    "DomainOrIP" : "www.viber.com.edgekey.net.private1.sentinelvpn.ml",
     "Flag" : "sg",
     "Name" : "Server01"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private2.sentinelvpn.ml",
-    "Flag" : "sg",
-    "Name" : "Server02"
   } ],
   "Payloads" : [ {
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : true,
-    "Host" : "fgxcxfRE6F7s2rStSP7GQ4ouAjoEq1cLNpT74V/86OvRCPXTTvbDDBWBIyknT2DtkIXZw8rx4rPEsTpdggb7yA==",
+    "Host" : "2PDho/DRCPI6dMxYZGWFWFPgG0V+DYzYmzn8GJnYdopFJpsy2hs8cVJW9l1zR3GpXaRHvFvGJIGuu19qhI23rg==",
     "Name" : "GTM GAMES 99",
     "OnlineHost" : true,
     "Port" : 8080,
     "Proxy" : "",
     "ReverseProxy" : false,
-    "ShowText" : true,
-    "Text" : "1gb Perday\n\n(ex: GAMES99 to 8080):\n\nGAMES50 - 300MB for 7 days for only P50\n\r\nGAMES99 - 300MB for 30 days for only P99\n\r\n",
+    "ShowText" : false,
+    "Text" : "1gb Perday\n\n(ex: GAMES99 to 8080):\n\nGAMES50 - 300MB for 7 days for only P50\n\r\nGAMES99 - 300MB for 30 days for only P99\n\r\nAND FREE 300MB PERDAY FOR GAMES. like Mobile legends.\n\nThis Promo : Bypassing only the @ig & @gb 1gb. ",
     "UseDefaultProxy" : true
   }, {
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "y8Bb75ddvMQQDmX6obHkxyrCdk8l8BMo3h3fUN/TxqDAbAKaL5UPWFk3RGXRjbZjfD+lj9szt8igDSxomNdKFbDWvRuSJ9Ee4LiX72P7qDo=",
+    "Host" : "3MJn/YCvF+c9b/QJQ5869zHJFirfaLqaCbjTSapS7KlfUuYH37AVsvmtMJPDJSUFOFNnjpq15SUzoVdDIB7o0+qiCDGwq1wVmhfYLJGdOQ4=",
     "Name" : "SUN TU/CTC 1",
     "OnlineHost" : true,
     "Port" : 8080,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
-    "Text" : "SUN Promo 1",
+    "Text" : "SENTINEL VPN",
     "UseDefaultProxy" : true
   }, {
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "UPslpT2IbsS+AX+UtKNJx8hCZAV1hfLjbIa9ilfICkWd02yt81U8s2hjgFMfVC+EsmuYOMpvpBgf+L8ztD5KYQ==",
+    "Host" : "BLCgJsI+vdkevA6mdi5JX6y2q+czvPTqDb8WZpuEEX9Ot6DedxORYIuWJP+7C7BiytbHmDrUxOUpkzbtm0fAOQ==",
     "Name" : "SUN TU/CTC 2",
     "OnlineHost" : false,
     "Port" : 8080,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
-    "Text" : "SUN Promo 2",
+    "Text" : "SENTINEL VPN",
     "UseDefaultProxy" : true
   }, {
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "VDoIM4HJDm8HeBN5hS9uc6p4y7bX4HxOhUN3Lb9EIiSgib1zDAfoU/8UaSbtZKhB",
+    "Host" : "U90Phoa/Z+bKUXUjwIFPFg9BZsqYIXd0c3BJ0NrEyBTrOiReJsNFjGlVT1YLo16p",
     "Name" : "SUN FIXEDPLAN 300",
     "OnlineHost" : false,
     "Port" : 8000,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
-    "Text" : "SUN Promo 3",
+    "Text" : "Gotscombo / go watch & play",
     "UseDefaultProxy" : true
   }, {
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "wPa2O8n8PalXnetcX+NbycT52csGrkS07hxGmsqLtyOaVgkvEc7lOWvE3xuAGlNAlilAt5c9yKlyXeHPipyvsw==",
+    "Host" : "fqoSAFDYehwj/kzP+y7zLj9gZ94E4Q0Bb7f+vdfarpUAKXpQTpVguGiGwllXtIbGHm3M6fPBM20aQqZa6FjK7w==",
     "Name" : "TALK N TEXT ML10",
     "OnlineHost" : false,
     "Port" : 8080,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
-    "Text" : "Talk.& Text Promo",
+    "Text" : "SENTINEL VPN",
     "UseDefaultProxy" : true
   } ],
   "GuiCategories" : true,
   "GuiFlags" : true,
   "Changelogs" : "SENTINEL VPN\nVirtual Private Network",
-  "Version" : 1.6
+  "Version" : 1.0
 }
