@@ -16,7 +16,7 @@
     "Name" : "Server01"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.private1.sentinelvpn.ml",
+    "DomainOrIP" : "www.viber.com.edgekey.net.private2.sentinelvpn.ml",
     "Flag" : "sg",
     "Name" : "Server02"
   } ],
@@ -24,7 +24,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : true,
-    "Host" : "LbsKsKZ40XXDUpmewUfP/2wvlt9tb7HxK0LdgkShWT4WwQ4mu6570kbcb/2tHGhHcJ391G612lcLoU8Bvh8DBA==",
+    "Host" : "MuKvmQ4zk32xUgZgYp6nWUzg53RAZ5AV6scgH8+rJQEmIga3V2MAtU2TsizWE+e+h2hSfVH69Y8NQDSpkz23pQ==",
     "Name" : "GTM GAMES 99",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -37,7 +37,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "Eu6xtyI9vTT+FIp8/YqDYFL2lg2A9kbyKmasvEw4UW0QRTjXGOkRlg7wlZKPsOdatjqzPIxSFsL39jkN+Uc6yGlwufjE5PI0u5R+iimL2zk=",
+    "Host" : "EqiD8dyoqEGX7HnGdUkGZNJ5UzuYwp9sOr4FaghiUr6gnXiEYct1Jmq967HFVENh5eqzZtGH94EDCfkwt4KdWVfSBYp4tk3bvWI8ppSyI3s=",
     "Name" : "SUN TU/CTC 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -50,7 +50,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "wWdblbSd/xBDWlTxxCu3BNi9z338wqzrxXAQpRbg4ngfRu9v7ZpZH1ISqcmy93jev2t/ZDTZzwZaE5za1/y42A==",
+    "Host" : "Gjfi3wCtM6pXaUIpmI/f3ao5Uh+KblJb3AG0DUiz0dKPvPoLDXiddX/mciSFnsF447FFyR5tnAqKaXBK5Rcxfg==",
     "Name" : "SUN TU/CTC 2",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -63,7 +63,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "XssWW618JcmecQ88BU76/b0glosjkyyF5IjQF6Z1IdgmGEMI2e1H6Wgggy75y7GE",
+    "Host" : "F/CUf3VuiQcoNbCrTw1NGrzukBGC91WlYULvx/o0WbRC0kO3hWIl2G7YnyjzCbfv",
     "Name" : "SUN FIXEDPLAN 300",
     "OnlineHost" : false,
     "Port" : 8000,
@@ -76,7 +76,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "DxcN0AU9Ookj7kumnUnSTRbkK0nVlzDH66xsVnLi9dyXl82+DR9ZtQPlllawwFvelGLkq6CNqzche+zEHCf8Rg==",
+    "Host" : "bXEqu57+7yRIyFAH5PvkzSEwfmPFPSVGp42dgkZqTxBz1gd+/PSkEHajZaVo61G80tbamlZWDYhu+4/wMcvUQw==",
     "Name" : "TALK N TEXT ML10",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -89,5 +89,5 @@
   "GuiCategories" : true,
   "GuiFlags" : true,
   "Changelogs" : "SENTINEL VPN\nVirtual Private Network",
-  "Version" : 1.4
+  "Version" : 1.5
 }
